@@ -1,0 +1,162 @@
+*
+{
+	margin:0px;
+}
+#outer
+{
+	width:1200px;
+	height:auto;
+	margin:0px auto;
+}
+#profile
+{
+	width:250px;
+	background-color:#009688;
+	height:1200px;
+}
+#image1
+{
+	width:200px;
+	height:200px;
+	padding:20px;
+}
+.profile_image
+{
+	margin-top:-120px;
+	width:200px;
+	height:200px;
+	border:5px solid #f5f5f5;
+	border-radius:50%;
+	
+}
+.title
+{
+	font-family:Kraftstoff;
+	font-size:30px;
+	float:right;
+}
+#header
+{
+	width:1200;
+	height:150px;
+	background-color:#f5f5f5;
+}
+.title1{
+	font-family:Kraftstoff;
+	font-size:35px;
+	color:white;
+	border-bottom:3px double #FFF;
+}
+p{
+	font-family:Museo;
+	font-size:20px;
+	padding:5px;
+	color:white;
+}
+#menu
+{
+	height:55px;
+	width:880px;
+    margin-left:320px;
+}
+.menu1
+{
+	color:#ffffff;
+	width:90px;
+	float:left;
+	height:30px;
+	margin-right:50px;
+	text-align:center;
+	padding-top:10px;
+	border:2px solid grey;
+	border-radius:3px;
+	background-color:#009688;
+}
+.menu1:hover
+{
+width:100px;
+height:30px;
+padding-top:20px;
+transform:rotate(360deg);
+-webkit-transform:rotate(360deg);
+}
+#logopart
+{
+	height:100px;
+	width:95px;
+	padding-top:14px;
+	margin:0px auto;
+	margin-left:350px;
+	float:left;
+	margin-right:2px;
+}
+#ttl
+{
+	height:150px;
+	width:500px;
+	float:left;
+}
+.name1
+{
+	font-size:70px;
+	float:left;
+	border-bottom:2px solid #009688;
+	text-shadow:0px 5px 5px #aaa;
+	margin-top:5px;
+}
+#name2
+{
+	font-size:45px;
+    font-weight:bold;
+    text-shadow:0px 5px 5px #aaa;
+	padding-top:40px;
+	border-bottom:2px solid black;
+}
+#name3
+{
+	font-family:monotype corsiva;
+	font-size:18px;
+}
+#news
+{
+		background-color:#f5f5f5;
+		width:870px;
+		height:25px;
+		margin-left:310px;
+		padding:10px;
+}
+.news
+{
+    font-family:verdana;
+    font-size:20px;
+	color:#009688;
+}	
+a:link
+{
+text-decoration:none;
+font-size:15px;
+font-family:Kraftstoff;
+color:#ffffff;
+}	
+#news_feed
+{
+	width:790px;
+	height:auto;
+	background-color:#f5f5f5;
+	margin-left:390px;
+	margin-top:50px;
+}
+#news_title
+{
+	width:790px;
+	height:30px;
+	background-color:#f5f5f5;
+	padding:10px;
+	border-bottom:2px solid black;
+}
+#news_content
+{
+   width:810px;
+   height:250px;
+   background-color:red;
+}

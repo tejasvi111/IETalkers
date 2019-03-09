@@ -1,0 +1,137 @@
+/*Common page CSS start from here...*/
+*
+{
+	margin:0px;
+}
+#outer
+{
+height:auto;
+width:1200px;
+margin:0px auto;
+}
+#header
+{
+	height:150px;
+	width:auto;
+	font-family:gungsuh;
+}
+#logopart
+{
+	height:100px;
+	width:95px;
+	padding-top:14px;
+	margin:0px auto;
+	margin-left:350px;
+	float:left;
+	margin-right:2px;
+}
+#ttl
+{
+	height:150px;
+	width:500px;
+	float:left;
+}
+.name1
+{
+	font-size:70px;
+	float:left;
+	border-bottom:2px solid #009688;
+	text-shadow:0px 5px 5px #aaa;
+	margin-top:5px;
+}
+#name2
+{
+	font-size:45px;
+    font-weight:bold;
+    text-shadow:0px 5px 5px #aaa;
+	padding-top:40px;
+	border-bottom:2px solid black;
+}
+#name3
+{
+	font-family:monotype corsiva;
+	font-size:18px;
+}
+#content{
+	height:500px;
+	width:auto;
+}
+#menu1{
+	height:35px;
+	width:auto;
+	background:#009688;
+	margin-bottom:10px;
+	-webkit-transition:background 2s;
+}
+#menu1:hover
+{
+	background:#88d3b2;
+	font-size:20px;
+	font-weight:bold;
+	-webkit-transition:background 2s,font-weight 1s;
+}
+.menuclass
+{
+	height:30px;
+	width:150px;
+	font-size:18px;
+	text-decoration:none;
+	float:right;
+	text-align:center;
+	padding-top:5px;
+	font-family:calibri;
+	color:#fff;
+}
+.menuclass:hover
+{
+	background:#009688;
+	border-radius:10px 10px 0px 0px;
+	color:#fff;
+}
+/*Common page CSS ends here...*/
+#slidershow
+{
+	height:440px;
+	width:1200px;
+	background-size:100% 100%;	
+}
+#txt
+{
+	height:300px;
+	width:800px;
+	padding-top:100px;
+	margin-left:100px;
+	font-size:40px;
+	border:none;
+	font-family:monotype corsiva;
+}
+#footer
+{
+	height:50px;
+	width:auto;
+	background:#222;
+	font-size:18px;
+	font-family:calibri;
+	color:#fff;
+}
+#footer a{
+	text-decoration:none;
+	color:#009688;
+}
+#left
+{
+	height:30px;
+	width:595px;
+	float:left;
+	padding-top:20px;
+	padding-left:5px;
+}
+#right
+{
+	height:30px;
+	width:580px;
+	float:right;
+	padding-top:20px;
+	text-align:right;
+	padding-right:20px;
+}
